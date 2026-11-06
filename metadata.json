@@ -1,0 +1,6 @@
+{
+  "name": "Karmachari - Staff Attendance, Salary & Work Tracker",
+  "description": "Smart attendance tracker with custom leave deductions (employer paid vs employee unpaid, Sunday off), advance/bonus ledger, auto salary calculation, and 9:30-5:30 hourly work reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
